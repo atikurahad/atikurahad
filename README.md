@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Atikur Rahaman Ahad<br>👀 I’m interested in FullStack Web Development.<br>🌱 I’m currently learning Typescript and NextJS .<br>📫 How to reach me atikurahad@gmail.com.
+👋 Hi, I’m Atikur Rahaman Ahad<br>👀 I’m interested in FullStack Web Development.<br>🌱 I’m currently learning Typescript, NextJS, and React Native .<br>📫 How to reach me atikurahad@gmail.com.
 
 
 ## 🌐 Socials:
