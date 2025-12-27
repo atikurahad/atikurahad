@@ -3,7 +3,7 @@
 👋 Hi, I’m Atikur Rahaman Ahad<br>👀 I’m interested in FullStack Web Development.<br>🌱 I’m currently learning Typescript, NextJS, and React Native .<br>📫 How to reach me atikurahad@gmail.com.
 
 
-
+# Most of the repositories are private for my client's work.
 
 
 ## 🌐 Socials:
